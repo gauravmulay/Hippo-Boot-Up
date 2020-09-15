@@ -1,0 +1,8 @@
+**/target
+**/.classpath
+**/.target
+**/.settings
+**/.project
+**/test
+
+/storage
